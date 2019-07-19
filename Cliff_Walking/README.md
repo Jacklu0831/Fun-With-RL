@@ -68,13 +68,6 @@ Since the cliff walking problem is very simplistic, all three Temporal Differenc
 
 <br>
 
-**Optimal Q-table Values**
-<image src="output/optimal.png"></image>
-
-One more thing to note is that if we compare the optimal Q-table values of the 3 methods to the optimal Q table values, the Expected Sarsa approach clearly stochastically estimates more accurate values than the others.
-
-<br>
-
 ### Similarities
 - Due to the simplicity of the game, all TD control methods converge to the optimal action-value function q* as long as epsilon decays in accordance to GLIE (Greedy in the Limit of Infinite Exploration) conditions and the step-size constant parameter alpha is sufficiently small.
 
