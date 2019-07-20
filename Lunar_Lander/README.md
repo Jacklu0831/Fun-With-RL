@@ -4,21 +4,19 @@
 
 # Deep Q-Network (DQN)
 
-### Instructions
+Implementd Deep Q-Learning (DRL) to solve OpenAI Gym's LunarLander environment. The requirement for solving environment is a score of 200, which was achieved in 1672 episodes.
 
-In this exercise, you will implement Deep Q-Learning to solve OpenAI Gym's LunarLander environment.  To begin, navigate to the `exercise/` folder, and follow the instructions in `Deep_Q_Network.ipynb`.
+<p align="center">
+	<video src="output/result.mov"></video>
+</p>
 
-(_Alternatively, if you'd prefer to explore a complete implementation, enter the `solution/` folder, and run the code in `Deep_Q_Network_Solution.ipynb`._)
+# Model
 
-After you are able to get the code working, try to change the parameters in the notebook, to see if you can get the agent to train faster!  You may also like to implement prioritized experience replay, or use it as a starting point to implement a Double DQN or Dueling DQN!
 
-### Results
 
-![Trained Agent][image1]
+# Rules
 
-### Resources
+8 states - x, y, x-velo, y-velo, angle, angular-velo, left-leg-contact, right-leg-contact
+4 actions - No -ower, left-engine, right-engine, main-engine
 
-- [Human-Level Control through Deep Reinforcement Learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
-- [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/abs/1509.06461)
-- [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
-- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+Landing pad is always at coordinates (0,0). Coordinates are the first two numbers in state vector. Reward for moving from the top of the screen to landing pad and zero speed is about 100..140 points. If lander moves away from landing pad it loses reward back. Episode finishes if the lander crashes or comes to rest, receiving additional -100 or +100 points. Each leg ground contact is +10. Firing main engine is -0.3 points each frame. Solved is 200 points. Landing outside landing pad is possible. Fuel is infinite, so an agent can learn to fly and then land on its first attempt. Four discrete actions available: do nothing, fire left orientation engine, fire main engine, fire right orientation engine. 

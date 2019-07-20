@@ -14,4 +14,10 @@ There are too many equations and terms, so I will just list the different approa
 
 # Papers
 https://arxiv.org/pdf/cs/9905014.pdf
-https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf
+- [Human-Level Control through Deep Reinforcement Learning](https://storage.googleapis.com/deepmind-media/dqn/DQNNaturePaper.pdf)
+- [Deep Reinforcement Learning with Double Q-Learning](https://arxiv.org/abs/1509.06461)
+- [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
+- [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
+
+# Links
+http://icaps18.icaps-conference.org/fileadmin/alg/conferences/icaps18/summerschool/lectures/Lecture5-rl-intro.pdf
