@@ -7,12 +7,17 @@
 Implementd Deep Q-Learning (DRL) to solve OpenAI Gym's LunarLander environment. The requirement for solving environment is a score of 200, which was achieved in 1672 episodes.
 
 <p align="center">
-	<video src="output/result.mov"></video>
+	<video src="output/result1.mp4"></video>
+	<video src="output/result2.mp4"></video>
 </p>
 
 # Model
 
+The model has 8 input neurons (size of state), 4 output neurons (size of actions), and two hidden fully-connected layers each with 64 neurons.
 
+<p align="center">
+	<img src="assets/model.png"></img>
+</p>
 
 # Rules
 
