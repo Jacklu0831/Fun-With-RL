@@ -6,3 +6,7 @@ Trained the classic Atari Pong game on OpenAI Gym with Proximal Policy Optimizat
 
 **Proximal Policy Optimization**\
 Solves a major issue of the REINFORCE algorithm by making use of old trajectories that were generated with old policies instead of simply discarding them. PPO is built upon REINFORCE and it uses the clipped surrogate function for better training efficiency. This state-of-the-art algorithm is also used to train the OpenAI Five system (Dota).
+
+# Rules
+
+You have to know the rules. 

@@ -1,3 +1,7 @@
+> REINFORCE == **RE**ward **I**ncrement = **N**onnegative **F**actors times **O**ffset **R**einforcement times **C**haracteristic **E**ligibility
+
+[#JustWhyTrySoHard #1992 #RecursiveAcronym #ImGoingToGetATattooOfThis](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf).
+
 # Reinforcement Learning
 
 The most interesting and the most difficult field I have ever touched even just from scratching its surface. However, the fact that it is also one of the hardest challenge humanity is facing is soothing the pain of me needing to open 10 google tabs just to comprehend half a page of research paper.  
