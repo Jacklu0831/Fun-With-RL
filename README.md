@@ -1,6 +1,6 @@
 > REINFORCE == **RE**ward **I**ncrement = **N**onnegative **F**actors times **O**ffset **R**einforcement times **C**haracteristic **E**ligibility
 
-[#JustWhyTrySoHard #1992 #RecursiveAcronym #ImGoingToGetATattooOfThis](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf).
+[#LolWhyDidYouDoThat #WhatHappenedIn1992 #RecursiveAcronym #ImGoingToGetATattooOfThis](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf).
 
 # Reinforcement Learning
 
@@ -8,11 +8,16 @@ The most interesting and the most difficult field I have ever touched even just 
 
 # Main Topics/Methods
 
-**Monte Carlo Methods** - Epsilon-Greedy policies, GLIE, state and action value functions, Bellman Equations\
-**Temporal-Different Methods** - Sarsa, Q-Learning, and Expected Sarsa\
-**Continuous Spaces** - Discretization, Tile Coding, and Function Appoximations\
-**Value-Based Methods** - Implementation of Deep Q-Networks, Double Q-Networks\
-**Policy-Based Methods** - Stochastic Policy Search, Hill Climbing Algorithm, REINFORCE, Proximal Policy Optimization, A3C, A2C, N-step bootstrapping, GAE, DDPG
+**Monte Carlo Methods** - Epsilon-Greedy policies, GLIE, state and action value functions, Bellman Equations
+
+**Temporal-Different Methods** - Sarsa, Q-Learning, and Expected Sarsa
+
+**Continuous Spaces** - Discretization, Tile Coding, and Function Appoximations
+
+**Value-Based Methods** - Implementation of Deep Q-Networks, Double Q-Networks
+
+**Policy-Based Methods** - Stochastic Policy Search, Hill Climbing Algorithm, REINFORCE, Proximal Policy Optimization, A3C, A2C, N-step bootstrapping, GAE, DDPG, Continuous Control
+
 **Multi-Agent Reinforcement Learning** (MARL): Cooperative and Competitive Behaviors, Monte Carlo Tree Search, 
 
 # Resources
@@ -29,6 +34,7 @@ The most interesting and the most difficult field I have ever touched even just 
 - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
 https://arxiv.org/abs/1611.02247
+https://arxiv.org/abs/1509.02971
 
 ### Structured
 

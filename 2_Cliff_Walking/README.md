@@ -66,7 +66,6 @@ Implemented 3 different Temporal-Difference control methods in this lesson: Sars
 
 Since the cliff walking problem is very simplistic, all three Temporal Difference methods were able to achieve the maximum reward of -13.0. However, by observing the reward vs. epoch graph of each, it could be seen that Expected Sarsa has a kink that the other two do not have. This means that it was able to find the optimal solution faster than the others. The reason why its performance is higher is because instead of taking the e-greedy action or selecting the max value, Expected Sarsa is able to take into account all of the possible next actions and weight their value with respect to the policy.
 
-<br>
 
 ### Similarities
 - Due to the simplicity of the game, all TD control methods converge to the optimal action-value function q* as long as epsilon decays in accordance to GLIE (Greedy in the Limit of Infinite Exploration) conditions and the step-size constant parameter alpha is sufficiently small.
