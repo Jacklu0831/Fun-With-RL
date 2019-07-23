@@ -33,8 +33,8 @@ The most interesting and the most difficult field I have ever touched even just 
 - [Dueling Network Architectures for Deep Reinforcement Learning](https://arxiv.org/abs/1511.06581)
 - [Prioritized Experience Replay](https://arxiv.org/abs/1511.05952)
 - [Proximal Policy Optimization Algorithms](https://arxiv.org/abs/1707.06347)
-https://arxiv.org/abs/1611.02247
-https://arxiv.org/abs/1509.02971
+- [Continuous control with deep reinforcement learning](https://arxiv.org/abs/1509.02971)
+- [Q-Prop: Sample-Efficient Policy Gradient with An Off-Policy Critic](https://arxiv.org/abs/1611.02247)
 
 ### Structured
 
