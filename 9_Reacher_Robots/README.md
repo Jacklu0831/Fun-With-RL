@@ -1,9 +1,6 @@
-[//]: # (Image References)
-[image1]: https://user-images.githubusercontent.com/10624937/43851024-320ba930-9aff-11e8-8493-ee547c6af349.gif "Trained Agent"
-
 # Double-Jointed Reacher Robot
 
-![Trained Agent][image1]
+<video src="output/result.mp4"></video>
 
 In this environment, a double-jointed arm of each [reacher](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md) has to move to the constantly moving target locations. Used [**deep deterministic policy gradients continuous control method**](https://arxiv.org/abs/1509.02971) with the **Ornstein-Uhlenbeck process** for noise aided exploration. Achieved the "solved" benchmark of average score >= 30 over 100 consecutive episodes over all agents. One problem that I encountered is when trying to train 20 agents at the same time under synchronized time steps, I accidentally only trained one and never let the others learn, resulting in extremely slow learning and 0 result. 
 
