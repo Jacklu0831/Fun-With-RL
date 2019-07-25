@@ -18,7 +18,7 @@ The most interesting and the most difficult field I have ever touched even just 
 
 **Policy-Based Methods** - Stochastic Policy Search, Hill Climbing Algorithm, REINFORCE, Proximal Policy Optimization, A3C, A2C, N-step bootstrapping, GAE, DDPG, Continuous Control
 
-**Multi-Agent Reinforcement Learning** (MARL): Cooperative and Competitive Behaviors, Monte Carlo Tree Search, 
+**Multi-Agent Reinforcement Learning** (MARL): Cooperative and Competitive Behaviors, Monte Carlo Tree Search, MADDPG
 
 # Resources
 
