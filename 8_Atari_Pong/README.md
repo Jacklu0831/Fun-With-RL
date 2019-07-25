@@ -4,7 +4,7 @@
   <image src="output/result.gif" height="25%" width="25%">
 </p>
 
-Green is the trained agent with conv layers.
+<p align="center">Green is the trained agent with conv layers.</p>
 
 Trained a [Atari Pong](https://gym.openai.com/envs/Pong-v0/) player in OpenAI Gym with **Proximal Policy Optimization (PPO)**, an improvement to the REINFORCE algorithm I used for the [Cart Pole project](https://github.com/Jacklu0831/Reinforcement-Learning-Simulation-Solving/tree/master/7_Cart_Pole). 
 
