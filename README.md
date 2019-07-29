@@ -1,8 +1,93 @@
 > REINFORCE == **RE**ward **I**ncrement = **N**onnegative **F**actors times **O**ffset **R**einforcement times **C**haracteristic **E**ligibility
 
-[#TotalCoincidence #TattooMaterial](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf).
+#Nice #TattooMaterial - [source](http://www-anw.cs.umass.edu/~barto/courses/cs687/williams92simple.pdf)
 
 # Reinforcement Learning
+
+**Screen captures of solved simulations:**
+
+<table style="width:100%" align="center" valign="center">
+  <tr>
+    <th width="33.3%">
+      <p align="center">
+           <a><img src="1_Blackjack/output/result2.png" alt="Overview" width="80%" height="80%"></a>
+           <br>Blackjack
+           <br><a href="1_Blackjack">Code</a>
+      </p>
+    </th>
+    <th>
+      <p align="center">
+         <a><img src="2_Cliff_Walking/output/expsarsa_policy.png" alt="Overview" width="80%" height="80%"></a>
+         <br>Cliff Walking
+         <br><a href="2_Cliff_Walking">Code</a>
+      </p>
+    </th>
+      </tr>
+  <tr>
+    <th width="33.3%">
+        <p align="center">
+         <a><img src="3_Taxi/output/taxi_visual.gif" alt="Overview" width="40%" height="40%"></a>
+         <br>Taxi
+         <br><a href="3_Taxi">Code</a>
+      </p>
+    </th>
+    </th width="33.3%">
+    <th><p align="center">
+           <a><img src="4_Lunar_Lander/output/result.gif" alt="Overview" width="90%" height="90%"></a>
+           <br>Lunar Lander
+           <br><a href="4_Lunar_Lander">Code</a>
+        </p>
+    </th>
+      </tr>
+  <tr>
+    <th width="33.3%">
+      <p align="center">
+           <a><img src="5_Banana_Collector/output/result.gif" alt="Overview" width="100%" height="100%"></a>
+           <br>Banana Collector
+           <br><a href="5_Banana_Collector">Code</a>
+        </p>
+    </th>
+    <th width="33.3%">
+          <p align="center">
+           <a><img src="6_Mountain_Car/output/result.gif" alt="Overview" width="100%" height="100%"></a>
+           <br>Mountain Car
+           <br><a href="6_Mountain_Car">Code</a>
+        </p>
+    </th>
+    </tr>
+  <tr>
+    <th width="33.3%">
+      <p align="center">
+           <a><img src="7_Cart_Pole/output/result.gif" alt="Overview" width="100%" height="100%"></a>
+           <br>Cart Pole
+           <br><a href="7_Cart_Pole">Code</a>
+        </p>
+    </th>
+    <th width="33.3%">
+      <p align="center">
+           <a><img src="8_Atari_Pong/output/result.gif" alt="Overview" width="40%" height="40%"></a>
+           <br>Atari Pong
+           <br><a href="8_Atari_Pong">Code</a>
+        </p>
+    </th>
+    </tr>
+  <tr>
+    <th width="33.3%">
+          <p align="center">
+           <a><img src="9_Reacher_Robots/output/result.gif" alt="Overview" width="100%" height="100%"></a>
+           <br>Reacher Arms
+           <br><a href="9_Reacher_Robots">Code</a>
+        </p>
+    </th>
+      <th width="33.3%">
+          <p align="center">
+           <a><img src="10_Tennis/output/result.gif" alt="Overview" width="100%" height="100%"></a>
+           <br>Two-Player Tennis 
+           <br><a href="10_Tennis">Code</a>
+        </p>
+    </th>
+  </tr>
+</table>
 
 A collection of reinforcement learning projects I have done in OpenAI Gym and Unity ML-agents. Learned and implemented basic to complex reinforcement algorithms, from using the **Monte Carlo approach** for solving puzzles to using the **Multi-Agent Deep Deterministic Policy Gradient method** for training table tennis players. Detailed description of each project could be found by clicking on project titles in the table above. 
 
@@ -20,7 +105,7 @@ This is one of the most interesting topic I have had a chance to peek into. Howe
 
 **Policy-Based Methods** - Stochastic Policy Search, Hill Climbing Algorithm, REINFORCE, Proximal Policy Optimization, A3C, A2C, N-step bootstrapping, GAE, DDPG, Continuous Control
 
-**Multi-Agent Reinforcement Learning** (MARL): Cooperative and Competitive Behaviors, Multi-Agent DDPG, Monte Carlo Tree Search
+**Multi-Agent Reinforcement Learning (MARL)** - Cooperative and Competitive Behaviors, Multi-Agent DDPG, Monte Carlo Tree Search
 
 # Resources
 
