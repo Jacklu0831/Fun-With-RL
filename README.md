@@ -12,14 +12,14 @@
       <p align="center">
            <a><img src="1_Blackjack/output/result2.png" alt="Overview" width="80%" height="80%"></a>
            <br>Blackjack
-           <br><a href="1_Blackjack">Code</a>
+           <br><a href="1_Blackjack">Details</a>
       </p>
     </th>
     <th>
       <p align="center">
          <a><img src="2_Cliff_Walking/output/expsarsa_policy.png" alt="Overview" width="80%" height="80%"></a>
          <br>Cliff Walking
-         <br><a href="2_Cliff_Walking">Code</a>
+         <br><a href="2_Cliff_Walking">Details</a>
       </p>
     </th>
       </tr>
@@ -28,14 +28,14 @@
         <p align="center">
          <a><img src="3_Taxi/output/taxi_visual.gif" alt="Overview" width="40%" height="40%"></a>
          <br>Taxi
-         <br><a href="3_Taxi">Code</a>
+         <br><a href="3_Taxi">Details</a>
       </p>
     </th>
     </th width="33.3%">
     <th><p align="center">
            <a><img src="4_Lunar_Lander/output/result.gif" alt="Overview" width="90%" height="90%"></a>
            <br>Lunar Lander
-           <br><a href="4_Lunar_Lander">Code</a>
+           <br><a href="4_Lunar_Lander">Details</a>
         </p>
     </th>
       </tr>
@@ -44,14 +44,14 @@
       <p align="center">
            <a><img src="5_Banana_Collector/output/result.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Banana Collector
-           <br><a href="5_Banana_Collector">Code</a>
+           <br><a href="5_Banana_Collector">Details</a>
         </p>
     </th>
     <th width="33.3%">
           <p align="center">
            <a><img src="6_Mountain_Car/output/result.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Mountain Car
-           <br><a href="6_Mountain_Car">Code</a>
+           <br><a href="6_Mountain_Car">Details</a>
         </p>
     </th>
     </tr>
@@ -60,14 +60,14 @@
       <p align="center">
            <a><img src="7_Cart_Pole/output/result.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Cart Pole
-           <br><a href="7_Cart_Pole">Code</a>
+           <br><a href="7_Cart_Pole">Details</a>
         </p>
     </th>
     <th width="33.3%">
       <p align="center">
            <a><img src="8_Atari_Pong/output/result.gif" alt="Overview" width="40%" height="40%"></a>
            <br>Atari Pong
-           <br><a href="8_Atari_Pong">Code</a>
+           <br><a href="8_Atari_Pong">Details</a>
         </p>
     </th>
     </tr>
@@ -76,14 +76,14 @@
           <p align="center">
            <a><img src="9_Reacher_Robots/output/result.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Reacher Arms
-           <br><a href="9_Reacher_Robots">Code</a>
+           <br><a href="9_Reacher_Robots">Details</a>
         </p>
     </th>
       <th width="33.3%">
           <p align="center">
            <a><img src="10_Tennis/output/result.gif" alt="Overview" width="100%" height="100%"></a>
            <br>Two-Player Tennis 
-           <br><a href="10_Tennis">Code</a>
+           <br><a href="10_Tennis">Details</a>
         </p>
     </th>
   </tr>
